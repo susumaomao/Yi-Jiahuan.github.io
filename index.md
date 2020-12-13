@@ -1,6 +1,7 @@
 # 我的第一个个人网站 
 
-<table><tr><td bgcolor=orange>         --工设一班易佳欢</td></tr></table>
+<table><tr><td bgcolor=#FFE4C4>         --工设一班易佳欢</td></tr></table>
+
 >## 目录
 >>**我的信息**
 
@@ -23,3 +24,9 @@
 
 **我的照片**：[我的照片](http://img.mp.itc.cn/upload/20170302/e9c2f2036cc1401a9d32cf19fbd00b4e_th.jpg)
 >ps:如果你想要知道更多关于我的信息，可以看我的简历:<http://img.yanj.cn/editor/20160229180504_21118.jpg>
+
+># 我的性格和兴趣爱好
+>>###性格  
+
+>>性格偏于内向，比较严谨保守，乐观爱笑性格随和，开朗阳光
+>ps:一个标准的金牛座
