@@ -1,6 +1,6 @@
 # 我的第一个个人网站 &#10168;                                                                                                                                                                                                                          
 
-<table><tr><td bgcolor=#FFE4C4>         --工设一班易佳欢</td></tr></table>
+<table><tr><td bgcolor=#FFE4C4>           --工设一班易佳欢</td></tr></table>
 
 >## 目录 &#9660;                                
 >>**我的信息**&#10084;
@@ -44,12 +44,13 @@
 >>有较强的行动力和执行力，做事认真谨慎，责任感强
 >>## 未来发展方向  
 
->>想当一位UI/UX设计师&#9786；
+>>想当一位UI/UX设计师:blush:
 ***
 
-<font color=#00FFFF size=7 face="黑体">未完待续</font>
+><font color=#00FFFF size=7 face="黑体">未完待续</font>
 
 
 
 
                                   
+                                                                                                                                                                                                                                                                               
