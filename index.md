@@ -47,7 +47,7 @@
 >>想当一位UI/UX设计师:blush:
 ***
 
-><font color=#00FFFF size=7 face="黑体">未完待续</font>
+>未完待续:smirk:&#10137;&#10137;&#10137;
 
 
 
